@@ -1,4 +1,5 @@
 # hote-site
 初めてのgit。
 
-(this is git demo)
+<h1>this is git demo</h1>
+<p>i came to japan last year</p>
